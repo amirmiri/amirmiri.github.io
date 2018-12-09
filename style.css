@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'vazir';
+    src:url(Vazir.ttf);
+}
+
+
+body{
+    font-family: 'vazir';
+    text-align: center;
+    direction: rtl;
+}
+.hello{
+    background-color: #26A65B;
+    padding: 7px;
+}
+.name{
+    background-color: #2ABB9B;
+    padding: 20px;
+}
